@@ -1,9 +1,9 @@
 # Build a Recipe Finder with | React & TailwindCSS
 
 ![Demo App](/public/Screenshot_of_Project.png)
--   🌟 Learned React + Tailwind + EDAMAM API
--   🎃 Built a Responsive Design
--   🚀 Deployed for FREE on Vercel!
+- Learn React + Tailwind + EDAMAM API
+- Build a Responsive Design
+- Deploy for FREE on Vercel!
 
 # Run Locally
 
