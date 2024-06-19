@@ -1,5 +1,5 @@
 # Build a Recipe Finder with | React & TailwindCSS
-# https://recipe-finder-pink.vercel.app/
+https://recipe-finder-pink.vercel.app/
 ![Demo App](/public/Screenshot_of_Project.png)
 - Learn React + Tailwind + EDAMAM API
 - Build a Responsive Design
